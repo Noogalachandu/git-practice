@@ -1,3 +1,4 @@
 git is powerful 
 git is fast
 git is powerfull
+git is distributed
